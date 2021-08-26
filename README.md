@@ -2,8 +2,6 @@
 
 ### Aspiring Fullstack software engineer
 
-Have a browse in my repos or see some finished projects on my portfolio site 
-
 <!--
 **Deb0890/Deb0890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
