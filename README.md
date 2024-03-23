@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ### Aspiring Fullstack software engineer
-<p>Currently working as Quality Engineer</p>
+<p>Currently working as a Quality Engineer</p>
 <!--
 **Deb0890/Deb0890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
